@@ -1,6 +1,6 @@
 # nodewithsql
 
-pgsql with react express node
+sql with react express node
 
 First go to front end directory.
 
