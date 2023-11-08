@@ -58,7 +58,7 @@ const sequelize = new Sequelize('database', 'username', 'password', {
 - reactJs
 - nodeJs
 - expressJs
-- pgSql
+- 'mysql' | 'postgres' | 'sqlite' | 'mariadb' | 'mssql' | 'db2' | 'snowflake' | 'oracle'
 
 # Extra feature
 
